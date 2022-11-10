@@ -12,3 +12,4 @@ The Deep Learning Specialization is our foundational program that will help you 
 
 [Certificate.pdf](https://github.com/mboccenti/Deep-Learning-Specialization/blob/main/C3%20-%20Structuring%20Machine%20Learning%20Projects/DeepLearning%20X6N6H26GNHFJ.pdf)
 
+![image](https://user-images.githubusercontent.com/9393530/201006215-dd156137-e187-4821-a646-6c5eb5c7057d.png)
