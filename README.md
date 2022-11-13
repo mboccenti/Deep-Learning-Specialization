@@ -14,3 +14,5 @@ By the end you’ll be able to
 - Use strategies for reducing errors in ML systems, understand complex ML settings, and apply end-to-end, transfer, and multi-task learning
 - Build a Convolutional Neural Network, apply it to visual detection and recognition tasks, use neural style transfer to generate art, and apply these algorithms to image, video, and other 2D/3D data
 - Build and train Recurrent Neural Networks and its variants (GRUs, LSTMs), apply RNNs to character-level language modeling, work with NLP and Word Embeddings, and use HuggingFace tokenizers and transformers to perform Named Entity Recognition and Question Answering
+
+Certificate (https://github.com/mboccenti/Deep-Learning-Specialization/blob/main/DeepLearning%20FZBM3GJWFGS9.pdf)
