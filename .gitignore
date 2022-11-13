@@ -1,2 +1,7 @@
 __pycache__/
 .ipynb_checkpoints/
+data/
+nb_images/
+model_data/
+*.mat
+*.h5
