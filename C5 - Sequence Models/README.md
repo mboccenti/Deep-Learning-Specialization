@@ -8,4 +8,7 @@ By the end, you will be able to build and train Recurrent Neural Networks (RNNs)
 
 The Deep Learning Specialization is a foundational program that will help you understand the capabilities, challenges, and consequences of deep learning and prepare you to participate in the development of leading-edge AI technology. It provides a pathway for you to take the definitive step in the world of AI by helping you gain the knowledge and skills to level up your career.
 
-[Certificate.pdf](https://github.com/mboccenti/Deep-Learning-Specialization/blob/main/C3%20-%20Structuring%20Machine%20Learning%20Projects/DeepLearning%20X6N6H26GNHFJ.pdf)
+[Certificate.pdf](https://github.com/mboccenti/Deep-Learning-Specialization/blob/main/C5%20-%20Sequence%20Models/DeepLearning%20VVA2748R9CPZ.pdf)
+
+![image](https://user-images.githubusercontent.com/9393530/201543630-eef2dac2-bc32-405b-be75-78b0582dd63a.png)
+
