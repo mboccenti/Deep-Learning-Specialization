@@ -968,9 +968,10 @@ $\alpha^{<t,t'>} = \frac{exp(e^{<t,t'>})}{\sum^{T_x}_{t'=1} exp(e^{<t,t'>})}$
 
 > Q = interesting questions about the words in a sentence  
 > 
-> K = specific representations of words given a Q  
+> K = qualities of words given a Q
 > 
-> V = qualities of words given a Q
+> V = specific representations of words given a Q  
+
 
 
 **What are criteria for a good positional encoding algorithm?**
